@@ -5,9 +5,6 @@
 **Location:** Cincinnati, OH
 
 **Website:** https://scottmcc.com
-
-- 🔭  I’m currently working on the Insights Platform and Stratum as part of the Funky Bunch team
-- 📫  How to reach me: scott.mccartney@8451.com, Teams, or my phone #: (636) 236-3458
 - 😄  Pronouns: He/Him
 - ⚡  Fun fact: I can say the alphabet backwards
 
